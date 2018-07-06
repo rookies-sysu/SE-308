@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# SE-308 作业提交
 
-You can use the [editor on GitHub](https://github.com/rookies-sysu/SE-308/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+本仓库为中山大学 2015 级软件工程，2018春季学期综合实训课程 SE-308 的作业文档提交。使用的课程作业是2018 年春季学期的系统分析与设计课程的课程大作业 [Tiny-Hippo 点餐系统](https://rookies-sysu.github.io/Dashboard/)。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+下面是关于 SE-308 需要提交的文档链接整合。
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+1. [安装包与安装部署说明]()
+2. [用户手册](用户手册)
+3. [所有源代码]()
+4. [软件需求规格说明书(SRS)](软件需求规格说明书)
+5. [软件设计文档(SDS)]()
+6. [小组分工与贡献率说明]()
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rookies-sysu/SE-308/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
